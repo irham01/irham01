@@ -24,43 +24,4 @@
   <a href="https://komarev.com/ghpvc/?username=kanna-chan&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=kanna-chan&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
-### Pubg mobile 🎮
-<p align="center">
-  <img src="https://github.com/zeeoneofc/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
-</p>
-
-------
-
-### Spotify Playing 🎧
-
-<p align="center">
-  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
-
-------
-
-### Github Stats 🚀
-
-<p align="center"><a href="https://github.com/irham01"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofc&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/irham01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irham01&theme=radical&layout=compact"></a></p> 
-
-### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=api-zeeoneofc&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Alpha-userbot&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=Lord-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofc&repo=zeeoneofc&theme=nightowl)
-
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
-
-</details>
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/irham01?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FPemalang)
-
 </details> 
